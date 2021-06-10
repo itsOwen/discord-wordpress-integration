@@ -1,14 +1,14 @@
 # Discord Wordpress Integration Using Wordpress API! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img src="#">
+<img src="https://github.com/itsOwen/discord-wordpress-integration/blob/master/intro_logo.png">
 
 Its a very simple bot created in python, I will help you send automated messages in your discord server when something new is or added or something is updated to your website using wordpress API. You can also search your whole website within your discord server by using !search "query here".
 
 ### Example 1 Searching something in my discord server
-<img src="#">
+<img src="https://github.com/itsOwen/discord-wordpress-integration/blob/master/demo1.jpg">
 
 ### Example 2 Below When I update something on my site it notfies the user.
-<img src="#">
+<img src="https://github.com/itsOwen/discord-wordpress-integration/blob/master/demo2.jpg">
 
 ## DISCLAIMER
 Its a free to use bot. Do what ever you like with it :)
